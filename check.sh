@@ -12,3 +12,4 @@ if [ -z "$first_line" ] || [[ "$first_line" == *"github.com:yandex-praktikum"* ]
 else
     echo "Секретный ключ: practicum"
 fi
+ls -la
